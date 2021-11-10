@@ -3,7 +3,7 @@
 ?>
 
 <!DOCTYPE html>
-<!-- Coding by CodingLab | www.codinglabweb.com-->
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8" />
