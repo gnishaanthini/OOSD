@@ -169,9 +169,9 @@ body{
 .forms .signup-form .text a{
   text-decoration: none;
 }
-.forms .signup-form .text a:hover{
+/* .forms .signup-form .text a:hover{
   text-decoration: underline;
-}
+} */
 .forms .signup-form .button{
   color: #fff;
   margin-top: 40px;
@@ -189,11 +189,11 @@ body{
 }
 .forms .signup-form label{
   color: #5b13b9;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
-.forms .signup-form label:hover{
+/* .forms .signup-form label:hover{
   text-decoration: underline;
-}
+} */
 .forms .signup-form .login-text,
 .forms .signup-form .sign-up-text{
   text-align: center;
